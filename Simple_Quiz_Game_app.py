@@ -12,7 +12,7 @@ questions = [
 
 options = [
     ["NCIT College", "Oxford College", "Cosmos College", "City College"],
-    ["PHP", "Java", "C++", "python"],
+    ["PHP", "Java", "C++", "Python"],
     ["5", "6", "7", "8"],
     ["Monitor", "Keyboard", "Speaker", "Printer"],
     [
